@@ -10,6 +10,10 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>tanhua_sso</module>
+        <module>tanhua_dubbo</module>
+        <module>tanhua_server</module>
+        <module>tanhua_recommend</module>
+        <module>tanhua_spark</module>
     </modules>
 
 
